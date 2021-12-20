@@ -1,4 +1,6 @@
-### Hi there 👋
+##### Hi there 👋, my name is Michael Bonetti.  I live in Pittsburgh, PA with my wife and kids.  I have a soft spot for technology that goes back to my childhood when my dad brought home our first computer, an Apple IIGS with no hard drive.  I would often have to remind my dad to insert the system disk to boot as he would stare at a screen with an apple bouncing back and forth expecting the computer to boot like his work computer.  I was imediately drawn to the computer and figuring out how it worked.  That is when I begin playing around with BASIC programming.
+
+fast forward 30+ years and here I am still playing with computers...
 
 <!--
 **mbonetti-incyclesoftware/mbonetti-incyclesoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
