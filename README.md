@@ -20,8 +20,12 @@ I enjoy golfing, hockey, and almost anything outdoors.
 ![](https://img.shields.io/badge/Virtualization-Kubernetes-informational?style=for-the-badge&logo=Kubernetes&logoColor=white&color=326ce5)
 
 ## 🎓 Certifications
-<!-- ![](https://img.shields.io/badge/Azure-Solutions_Architect-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0089d6)
-![](https://img.shields.io/badge/Kubernetes-Application_Developer-informational?style=for-the-badge&logo=Kubernetes&logoColor=white&color=326ce5) -->
+
+
+[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/150x150/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://www.credly.com/badges/2de8ddc9-5fe3-4df8-8221-347fb445ed95)
+[![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/150x150/images/649069f9-27f1-4d2b-92bc-c674bc67bd02/azure-solutions-architect-expert-600x600.png)](https://www.credly.com/badges/b961fd99-d034-473e-986f-da3eded2e077)
+[![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/150x150/images/92e0618b-8002-4868-9e88-794a33aeb3b5/azure-developer-associate-600x600.png)](https://www.credly.com/badges/679a7e79-03c0-42bc-9064-c8683eac1a06)
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/150x150/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png)](https://www.credly.com/badges/eedf68f6-173f-4486-93e5-11789a6eee85)
 
 ## 🔭 I’m currently working on ...
 ## 🌱 I’m currently learning ...
