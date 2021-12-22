@@ -6,14 +6,19 @@ I live in Pittsburgh, PA with my wife and kids.  I have a soft spot for technolo
 I enjoy golfing, hockey, and almost anything outdoors.
 
 ## 🔧 Languages and Technologies
+
+|DevOps       | Programming      | Databases |
+| ----------- | ---------------- | --------- |
+| ![](https://img.shields.io/badge/CI%2FCD-Azure_DevOps-informational?style=for-the-badge&logo=azure-devops&logoColor=white&color=0078d7) | | |
+| ![](https://img.shields.io/badge/CI%2FCD-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)      |  |       |
+
 ![](https://img.shields.io/badge/CI%2FCD-Azure_DevOps-informational?style=for-the-badge&logo=azure-devops&logoColor=white&color=0078d7)
 ![](https://img.shields.io/badge/CI%2FCD-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0089d6)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=%2enet&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=%2enet&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Database-SQL_Server-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=CC2927)
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/Package%20Managers-NuGet-informational?style=for-the-badge&logo=nuget&logoColor=white&color=004880)
+![](https://img.shields.io/badge/Database-Cosmos_DB-informational?style=for-the-badge&logo=microsoft-cosmos-db&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/Scripting-PowerShell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=5391FE)
 ![](https://img.shields.io/badge/Source%20Control-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/Virtualization-Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=2496ed)
